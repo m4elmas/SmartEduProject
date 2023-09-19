@@ -3531,7 +3531,7 @@ blockquote.default {
     float: left;
     padding: 20px;
     position: relative;
-    width: 75%;
+    width: 100%;
 }
 .author-desc{
 	background: #eea412;
